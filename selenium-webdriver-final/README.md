@@ -2,8 +2,8 @@
 - Install dependencies: `npm install`
 
 ## Run example with selenium webdriver
-- Go to ./node_modules/.bin
-- Type command: `cd node ./../../example.js`
+- Go to `cd ./node_modules/.bin`
+- Type command: `node ./../../example.js`
 
 ## Run example with mocha framework
 - Go to ./node_modules/.bin
