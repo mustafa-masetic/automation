@@ -3,7 +3,7 @@
 
 ## Run example with selenium webdriver
 - Go to ./node_modules/.bin
-- Type command: `node ./../../example.js`
+- Type command: `cd node ./../../example.js`
 
 ## Run example with mocha framework
 - Go to ./node_modules/.bin
