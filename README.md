@@ -1,2 +1,1 @@
-# automation
-Test Automation
+Test automation with selenium webdriver and codeceptjs
