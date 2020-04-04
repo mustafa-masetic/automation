@@ -8,9 +8,6 @@
   },
   "author": "Mustafa Masetic",
   "license": "ISC",
-  "devDependencies": {
-    "selenium-webdriver": "^4.0.0-alpha.7"
-  },
   "dependencies": {
     "chai": "^4.2.0",
     "chromedriver": "^80.0.1",

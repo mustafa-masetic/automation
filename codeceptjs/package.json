@@ -12,5 +12,8 @@
   "devDependencies": {
     "codeceptjs": "^2.6.0",
     "webdriver": "^6.0.13"
+  },
+  "dependencies": {
+    "selenium-standalone": "^6.17.0"
   }
 }
