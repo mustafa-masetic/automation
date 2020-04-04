@@ -5,7 +5,7 @@ const {Builder, By, Key, until} = require('selenium-webdriver');
   try {
     await driver.get('http://www.google.com/ncr');
     await driver.findElement(By.name('q')).sendKeys('sulzer gmbh', Key.RETURN);
-    await driver.wait(until.titleIs('webdriver - Google Search'), 5000);
+    await driver.wait(until.titleIs('sulzer gmbh - Google-Suche'), 5000);
   } finally {
     await driver.quit();
   }
