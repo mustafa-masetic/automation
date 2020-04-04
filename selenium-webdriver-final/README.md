@@ -1,4 +1,5 @@
 # Selenium Webdriver and Mocha
+- Install dependencies: `npm install`
 
 ## Run example with selenium webdriver
 - Go to ./node_modules/.bin
