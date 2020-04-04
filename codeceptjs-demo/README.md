@@ -4,7 +4,7 @@
  - Initialize npm project: `npm init`
  - Install codeceptjs dependency: `npm install --save -dev codeceptjs`
  - Initialize codeceptjs: `codeceptjs init`
- - Instal selenium-standalone dependency: `npm install --save -dev selenium-standalone`
+ - Install selenium-standalone dependency: `npm install --save -dev selenium-standalone`
  - Install selenium server: `node_modules/selenium-standalone/bin/selenium-standalone install`
  - Start selenium server: `node_modules/selenium-standalone/bin/selenium-standalone start`
  - Create file with name: `example_test.js`
