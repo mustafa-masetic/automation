@@ -11,6 +11,6 @@
   "dependencies": {
     "chai": "^4.2.0",
     "chromedriver": "^80.0.1",
-    "mocha": "^7.1.1"
+    "mocha": "^10.2.0"
   }
 }
